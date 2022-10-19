@@ -29,7 +29,7 @@ Time optimization then can be said as the process to find the high-impact tasks,
 
 ### Tasks
 
-Our time is a limited resource. So we should search and find ways to manage better our unlimited to-do tasks in our finite time. Tasks are the tiniest component in one's workflow. Is a thing to do; I want to do, I must do, I could do. So the way we percieve a task is key in the way we find ways to execute it. One of the first advices we should take in consideration is:
+**Our time is a limited resource**. So we should search and find ways to manage better our unlimited to-do tasks in our finite time. **Tasks are the tiniest component in one's workflow**. Is a thing to do; I want to do, I must do, I could do. So the way we percieve a task is key in the way we find ways to execute it. In order to have a better perception of a task, one can consider the following advices:
 
 #### Write your tasks as concise and specific actions.
 
@@ -53,7 +53,7 @@ One more time, ask the same question. The answer this time can be:
 
 Then you're done.
 
-#### Diferentiate tasks according their execution nature.
+#### Sort tasks according their execution nature.
 
 It is good idea to make a distinction of your tasks so you can see the structure of the task and make it easier to simplify it. An example of this distinction is:
 
@@ -61,5 +61,7 @@ It is good idea to make a distinction of your tasks so you can see the structure
 
 - Products: tasks that are, usualy, executed once and that execution returns a specific result. i.e. deliver a schedule to the department, call the headquarters, write an article about time management.
 
-#### Sorting tasks nature, transform products into activities.
+#### Transform products into activities.
+
+Often times people feel more pressure when a task demands *yield* deliver. Sometimes, this pressure make the perception of the task gets accompanied with feelings of anxiety and rejection, which can lead to find *reasons* to not engage immediately on the task, postponing the execution. This is known more colloquialy as **procrastination**.
 
