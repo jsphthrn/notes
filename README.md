@@ -16,5 +16,9 @@ A catalog of notes regarding my own interests.
 
 Nothing yet!
 
+## General
+
+- [Time management](./general/time-management/time-management-notes.md)
+
 
 This is still in construction. It doesn't matter when you read this.
