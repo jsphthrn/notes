@@ -63,5 +63,11 @@ It is good idea to make a distinction of your tasks so you can see the structure
 
 #### Transform products into activities.
 
-Often times people feel more pressure when a task demands *yield* deliver. Sometimes, this pressure make the perception of the task gets accompanied with feelings of anxiety and rejection, which can lead to find *reasons* to not engage immediately on the task, postponing the execution. This is known more colloquialy as **procrastination**.
+Often times people **feel more pressure when a task demands *yield* deliver**. Sometimes, this pressure make the perception of the task gets accompanied with feelings of anxiety and rejection, which can **lead to find *reasons* to not engage immediately on the task, postponing the execution**. This is known more colloquialy as **procrastination**.
+
+One of the ways we can **break with procrastination** is to turn big and overwhelming product tasks into consistent activities. Instead of trying to get to the task goal in just one execution, use deferred execution. This is, **to execute the product task as a consistent activity through various executions so we keep doing little increments in progression instead of one-time execution**. 
+
+This way, one's goal is to make that overwhelming product task more manageable, joyful and flexible. One can assign a specific amount of time per day to this task. At the end of the day, evaluate if the goal of the task is meet. If not, you can assign more time on that task for the next day and so on.
+
+### To-do lists
 
